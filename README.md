@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Role-Based Access Control (RBAC) UI**
 
 _Empowering Admins to Manage Users, Roles, and Permissions with Ease._
@@ -179,3 +180,6 @@ For any queries or feedback, please contact:
 
 ---
 
+=======
+# GuardAccess
+>>>>>>> 21711a457d0695f6f4803c9dc56e604ef6348154
