@@ -11,23 +11,33 @@ GuardAccess is an RBAC-based application designed to manage users, assign roles,
 - **Search & Filter**: Quickly find users by name, role, or other parameters with an advanced search feature.
 - **Manage User Status**: Activate or deactivate users to control access at any time.
 
+![User Management](path/to/image-1.png)
+
 ### 🎭 Role Management
 - **Create Custom Roles**: Tailor roles to suit the needs of your organization.
 - **Assign Permissions**: Assign specific permissions to each role (e.g., Read, Write, Delete).
 - **Role Overview**: Get a quick visual representation of each role's permissions.
 
+![Role Management](path/to/image-2.png)
+
 ### 🔐 Permissions Management
 - **Manage Permissions Dynamically**: Add or remove permissions for any role as your needs evolve.
 - **View Role Permissions**: Easily see which roles have access to specific permissions.
+
+![Permissions Management](path/to/image-3.png)
 
 ### 🛠️ Authentication Features
 - **Role-Based Redirection**: Redirect users to appropriate dashboards based on their role.
 - **Enhanced Login UI**: A visually appealing 3D-inspired login interface with password strength validation.
 
+![Authentication Features](path/to/image-4.png)
+
 ### 🎨 User Interface Enhancements
 - **Responsive Design**: Ensure users have a seamless experience across any device.
 - **Smooth Animations**: Enjoy smooth hover effects and UI interactions for an engaging experience.
 - **Modern Aesthetics**: Beautiful gradient backgrounds and animations elevate the UI.
+
+![UI Enhancements](path/to/image-5.png)
 
 ## 💻 Technologies Used
 - **Frontend**: React.js, CSS (Animations, Transitions)
